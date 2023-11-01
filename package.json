@@ -10,7 +10,9 @@
   "author": "Daniil Drozd",
   "license": "ISC",
   "dependencies": {
+    "commander": "^11.1.0",
     "express": "^4.18.2",
+    "nanoid": "^5.0.2",
     "nodemon": "^3.0.1"
   }
 }
